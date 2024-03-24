@@ -1,8 +1,5 @@
 # Rock-Paper-Scissors-Lizard-Spock-Troll Game
 
-Author: Waleed Judah  
-Date: 3/8/2023
-
 This program implements a game that allows users to play Rock-Paper-Scissors-Lizard-Spock-Troll against a computer. The game uses several libraries such as `random`, `json`, `winsound`, and `termcolor` to enhance the user experience. The program also keeps track of scores and allows the user to view scores and players, as well as add new players.
 
 ![Game Demo](/demo.png)
